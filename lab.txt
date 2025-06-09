@@ -1,1 +1,1 @@
-"Project setup notes" 
+"Project setup for my first company" 
